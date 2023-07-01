@@ -199,6 +199,9 @@ devDependencies:
 
 packages:
 
+  /styled-jsx:
+    dev: false
+  
   /@babel/runtime@7.19.0:
     resolution: {integrity: sha512-eR8Lo9hnDS7tqkO7NsV+mKvCmv5boaXFSZ70DnfhcgiEne8hv9oCEd36Klw74EtizEqLsy4YnW8UWwpBVolHZA==}
     engines: {node: '>=6.9.0'}
