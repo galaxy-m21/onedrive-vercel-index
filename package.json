@@ -11,6 +11,7 @@
     "extract": "i18next"
   },
   "dependencies": {
+    "styled-jsx": "^5.1.2",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
     "@fortawesome/free-regular-svg-icons": "^6.2.1",
