@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  'styled-jsx':
+    specifier: ^5.1.2
+    version: 5.1.2
   '@fortawesome/fontawesome-svg-core':
     specifier: ^6.2.1
     version: 6.2.1
